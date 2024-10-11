@@ -4,6 +4,9 @@ A simple and efficient Stopwatch app built with Flutter, designed to track time 
 
 # Screenshot
 
+![image](https://github.com/user-attachments/assets/b2be5655-4e1b-4152-884c-76fc5d5ac51a)
+
+
 ## To Explore [Tap Here👈](https://stopwatch-flutter.netlify.app/)
 
 When using a browser’s **Inspect** tool to view a website in **Phone mode** (mobile view), follow these steps:
